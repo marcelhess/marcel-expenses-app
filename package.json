@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Mongoose",
+    "MongoDB",
+    "NodeJS",
+    "ExpressJS"
+  ],
+  "author": "Marcel Hess",
+  "license": "ISC",
+  "description": "Expenses API built using Nodejs/Mongoose",
+  "type": "module",
+  "dependencies": {
+    "bcryptjs": "^3.0.2",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.0"
+  }
+}
